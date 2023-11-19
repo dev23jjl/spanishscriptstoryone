@@ -249,7 +249,7 @@ function end () {
   document.body.appendChild(completed);
 
   var endGif = document.createElement("img");
-  endGif.src = "/giphy.gif";
+  endGif.src = "giphy.gif";
   document.body.appendChild(endGif);
 
   var resultHeading = document.createElement("h1");
