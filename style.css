@@ -30,3 +30,8 @@ button {
   cursor: pointer;
   display:inline-block;
 }
+
+#birthdayImg {
+  width: 50%;
+  height: auto;
+}
