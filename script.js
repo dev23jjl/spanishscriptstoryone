@@ -176,7 +176,7 @@ function paragraph4() {
 
   setTimeout(() => {
    var birthdayImg = document.createElement("img");
-   birthdayImg.src = "https://image.freepik.com/vector-gratis/feliz-cumpleanos-concepto_23-2148484501.jpg";
+   birthdayImg.src = "https://images.unsplash.com/photo-1602631985686-1bb0e6a8696e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
    birthdayImg.id = "birthdayImg";
    document.body.appendChild(birthdayImg);
 
@@ -249,7 +249,7 @@ function end () {
   document.body.appendChild(completed);
 
   var endGif = document.createElement("img");
-  endGif.src = "https://tetranoodle.com/wp-content/uploads/2018/07/tick-gif.gif";
+  endGif.src = "/giphy.gif";
   document.body.appendChild(endGif);
 
   var resultHeading = document.createElement("h1");
